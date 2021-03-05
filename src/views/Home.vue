@@ -51,7 +51,7 @@
 
 <script>
 
-const API_URL = 'http://localhost:8000/messages';
+const API_URL = 'https://message-backend.herokuapp.com/messages';
 
 export default {
   name: 'Home',
